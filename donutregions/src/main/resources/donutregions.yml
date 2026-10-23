@@ -1,0 +1,18 @@
+# Donut Regions config
+# Copied to .minecraft/config/donutregions.yml on first launch. Restart the game after editing.
+
+# Show the region HUD in the top-left corner (true/false)
+hud_enabled: true
+
+# HUD position in pixels from the top-left corner of the screen
+hud_x: 6
+hud_y: 6
+
+# Dark background behind the HUD text (true/false)
+hud_background: true
+
+# Show your X/Z coordinates under the region name (true/false)
+show_coordinates: true
+
+# In the Nether, multiply coordinates by 8 so they match the overworld map (true/false)
+nether_scaling: true

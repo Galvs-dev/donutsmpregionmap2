@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "donutregions",
+  "version": "${version}",
+  "name": "Donut Regions",
+  "description": "Shows which Donut SMP region (1-113) and server area you are standing in, with a full map screen.",
+  "authors": [],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.donutregions.DonutRegionsClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.4",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
